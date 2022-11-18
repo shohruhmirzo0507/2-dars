@@ -1,0 +1,373 @@
+@font-face {
+    font-family: asad;
+    src: url("./Noto_Sans_Vai/NotoSansVai-Regular.ttf");
+}
+@font-face {
+    font-family: azx;
+    src: url("./Noto_Sans_Vai\,Noto_Sans_Wancho/");
+}
+@font-face {
+    font-family: req;
+    src: url("./Island_Moments/Fuzzy_Bubbles\,Island_Moments/");
+}
+@font-face {
+    font-family: qalay;
+    src: url("./Island_Moments/IslandMoments-Regular.ttf");
+}
+@font-face {
+    font-family: bazan;
+    src: url("./Shalimar/Shalimar-Regular.ttf");
+}
+@font-face {
+    font-family: aql;
+    src: url("./Freehand/Freehand-Regular.ttf");
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+nav{
+    width: 100%;
+    height: 50px;
+    background: white;
+}
+nav i{
+    color: blue;
+    font-size: 20px;
+    margin: 10px 0px 0px 30px;
+}
+.p{
+    padding: 10px 0px 10px 50px;
+    position: absolute;
+}
+.collec{
+    display: flex;
+    list-style: none;
+}
+.qwer{
+    padding: 10px 0px 0px 1000px;
+    color: blue;
+}
+.qwe{
+    padding: 10px 0px 0px 50px;
+}
+.qw{
+    padding: 10px 0px 0px 50px;
+}
+
+.q{
+    padding: 10px 0px 0px 50px;
+}
+.main{
+    width: 1100px;
+    height: 50px;
+    border: 1px solid black;
+    margin: 20px auto;
+    border-radius: 40px;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+.box{
+    width: 350px;
+    height: 50px;
+    border: 1px solid gray;
+    border-radius: 24px 0px 0px 24px;
+    padding: 0px 0px 0px 20px;
+}
+
+.bo{
+    width: 350px;
+    height: 50px;
+    border: 1px solid gray;
+}
+
+.b{
+    width: 350px;
+    height: 50px;
+    border: 1px solid gray;
+}
+.box i{
+    padding: 15px 0px 0px 0px;
+}
+select{
+    margin: 15px 0px 0px 20px;
+    border: none;
+    margin: auto;
+}
+
+.vb{
+    padding: 0px 0px 0px 10px;
+}
+.as{
+    color: black;
+}
+.btn{
+   background: white; 
+    border-radius: 40px;
+    width: 100px;
+    height: 30px;
+margin: 0px 0px 0px 220px;
+border: 1px solid black;
+}
+.bt{
+    background: white; 
+     border-radius: 40px;
+     width: 100px;
+     height: 30px;
+ margin: 0px 0px 0px 20px;
+ border: 1px solid black;
+ }
+ .bop{
+    background: white; 
+     border-radius: 40px;
+     width: 150px;
+     height: 30px;
+ margin: 0px 0px 0px 20px;
+ border: 1px solid black;
+ }
+.yut{
+    width: 15px;
+    height: 15px;
+    background: white;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+.za{
+    margin: 0px 0px 0px 30px;
+}
+h5{
+    display: inline;
+    color: rgb(61, 58, 58);
+}
+.mono{
+    width: 800px;
+    height: 30px;
+    
+    
+}
+.mon{
+    width: 300px;
+    height: 30px;
+    
+    
+}
+.pok{
+    font-size: 12px;
+    padding: 10px 0px 0px 0px;
+}
+
+.bag{
+    width: 1100px;
+    height: 40px;
+    
+display: flex;
+margin: 20px auto;
+}
+.kino{
+    width: 1100px;
+    height: 300px;
+    
+    margin: 20px auto;
+    display: flex;
+}
+.loki{
+    width: 350px;
+    height: 300px;
+    border: 1px solid black;
+    margin-right: 15px;
+    position: relative;
+    
+}
+.qani{
+    padding: 15px 0px 0px 15px;
+}
+
+.qan{
+    padding: 0px 0px 0px 15px;
+}
+.qa{
+    padding: 0px 0px 20px 280px;
+    font-size: 13px;
+    position: absolute;
+    top: 22px;
+}
+.alo{
+    font-size: 60px;
+    padding: 0px 0px 0px 15px;
+    font-family: qalay;
+}
+.al{
+    font-family: asad;
+    font-size: 45px;
+    padding: 0px 0px 0px 15px;
+}
+.alop{
+    font-family: azx;
+    font-size: 45px;
+    padding: 0px 0px 0px 15px;
+}
+.alog{
+    font-family: req;
+    font-size: 45px;
+    padding: 0px 0px 0px 15px;
+}
+.alos{
+    font-family: bazan;
+    font-size: 60px;
+    padding: 0px 0px 0px 15px;
+}
+.alij{
+    font-size: 45px;
+    font-family: aql;
+    padding: 0px 0px 0px 15px;
+}
+.rich{
+    width: 100%;
+    height: 100vh;  
+    background: rgb(155, 117, 72);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.boy{
+    width: 260px;
+    height: 130px;
+
+    margin: 0px 0px 190px 0px;
+    display: flex;
+}
+.joker{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background: white;
+    
+}
+.kelin{
+    width: 260px;
+    height: 65px;
+    background: white;
+    position: absolute;
+    margin: 0px 0px 120px 0px;
+    border-radius: 0px 0px 60px 60px;
+}
+.gerd{
+    width: 260px;
+    height: 130px;
+    background: yellow;
+    margin: 75px 0px 0px 0px;
+    position: absolute;
+    border-radius: 60px;
+    overflow: hidden ;
+    display: flex;
+}
+.shok{
+    width: 40px;
+    height: 130px;
+    background: black;
+     margin-right: 20px;
+}
+
+.yom{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: black;
+    margin: 35px 0px 0px 20px;
+}
+.doma{
+    width: 100%;
+    height: 100vh;  
+    background: rgb(233, 171, 96);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.odina{
+    width: 300px;
+    height: 300px;
+    background: rgb(105, 92, 73);
+    margin: 0px 730px 0px 0px;
+    border-radius: 50%;
+}
+.odi{
+    width: 250px;
+    height: 250px;
+    background: rgb(105, 92, 73);
+    border-radius: 50%;
+    position: absolute;
+    margin: 0px 390px 0px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.lola{
+    width: 20px;
+    height: 100px;
+    background: rgba(46, 39, 30, 0.816);
+    margin: 100px 0px 0px 100px;
+    border-radius: 40px;
+}
+.goog{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: rgb(235, 155, 81);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gugu{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background: rgba(46, 39, 30, 0.883);
+}
+.jiyan{
+    width: 300px;
+    height: 50px;
+    background: rgba(46, 39, 30, 0.883);
+    position: absolute;
+margin: 0px 0px 0px 155px;
+}
+.jiji{
+    width: 90px;
+    height: 70px;
+    position: absolute;
+    background: rgb(105, 92, 73);
+    margin: 0px 0px 0px 530px;
+    border-radius: 20px;
+}
+.dera{
+    width: 50px;
+    height: 10px;
+    margin: 20px 0px 0px 20px;
+    background: rgba(46, 39, 30, 0.883);
+}
+.der{
+    width: 50px;
+    height: 10px;
+    background: rgba(46, 39, 30, 0.883);
+    margin: 10px 0px 0px 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
